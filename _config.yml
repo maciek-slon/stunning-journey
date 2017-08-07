@@ -2,8 +2,8 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
+title:               Stunning
+tagline:             Journey
 url:                 http://getpoole.com
 baseurl:             ""
 
@@ -25,5 +25,3 @@ version:             2.0.0
 github:
   repo:              https://github.com/poole/poole
 
-# Gems
-gems:
