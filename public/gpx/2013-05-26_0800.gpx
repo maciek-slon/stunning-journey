@@ -12,22 +12,6 @@
     <!--url>https://www.google.pl/maps/dir/50.7754168,15.7483593/%C5%9Anie%C5%BCka/Dziki+Wodospad/50.775232,15.7487462/@50.7582607,15.6897703,13z/am=t/data=!3m1!4b1!4m36!4m35!1m20!3m4!1m2!1d15.7226335!2d50.7779052!3s0x470ee8706eca25bd:0x2138e25f5c26c28!3m4!1m2!1d15.7134909!2d50.7697593!3s0x470ee869747cdcf5:0xc55cd7246852002d!3m4!1m2!1d15.7000944!2d50.7503888!3s0x470ee84955113177:0xcd7e349253941ae6!3m4!1m2!1d15.7153597!2d50.7416861!3s0x470ee9aa42eff64b:0xbaf2a9b6428377c9!1m5!1m1!1s0x470ee91b0d866c4b:0xebd8f068bc18f733!2m2!1d15.7399457!2d50.7360171!1m5!1m1!1s0x470ee86168a8c2c3:0x10d26f0f258635f5!2m2!1d15.7281946!2d50.7689483!1m0!3e2?shorturl=1&hl=en</url-->
     <time>2018-08-07T13:52:19Z</time>
   </metadata>
-  <wpt lat="50.7754168" lon="15.7483593">
-    <name>58-540 Karpacz</name>
-    <desc>Rybacka 4, 58-540 Karpacz, Poland</desc>
-  </wpt>
-  <wpt lat="50.7360171" lon="15.7399457">
-    <name>Śnieżka</name>
-    <desc>Sněžka</desc>
-  </wpt>
-  <wpt lat="50.7689483" lon="15.7281946">
-    <name>Dziki Wodospad</name>
-    <desc>Wild Falls, 58-550 Karpacz, Poland</desc>
-  </wpt>
-  <wpt lat="50.775232" lon="15.7487462">
-    <name>Karpacz</name>
-    <desc>Rybacka 2, Karpacz, Poland</desc>
-  </wpt>
 <trk>
   <name>58-540 Karpacz to Karpacz</name>
   <number>1</number>
